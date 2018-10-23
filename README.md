@@ -1,0 +1,2 @@
+# ndrh
+dotnet project
